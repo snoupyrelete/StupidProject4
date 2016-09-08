@@ -6,3 +6,4 @@ public class StupidController {
 		System.out.println("This program is slightly less stupid.");
 	}
 }
+
